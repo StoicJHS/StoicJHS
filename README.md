@@ -16,7 +16,7 @@
        alt="GitHub Stats">
 </a>
 -->
-<!--
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
@@ -26,7 +26,7 @@
   </a>
 
 <br clear="both">
--->
+
 
 <div align="center">
   <picture>
