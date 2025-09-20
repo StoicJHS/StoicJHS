@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ex+nihilo+nihil+fit.;Work+like+hell!)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS)
 
 
 <h3 align="center"> 💫 Research Stack </h3>
