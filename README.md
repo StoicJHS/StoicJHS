@@ -39,7 +39,8 @@
 
 <div align="center">
   <!-- Languages & Libraries -->
-  <b> ✨ Languages & Libraries </b><br/> <br/>
+  <b> ✨ Languages & Libraries </b><br/>
+  
   <img src="https://img.shields.io/badge/fortran-734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"> <br/>
   
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
