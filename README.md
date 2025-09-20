@@ -16,7 +16,7 @@
        alt="GitHub Stats">
 </a>
 -->
-
+<!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
@@ -26,6 +26,22 @@
   </a>
 
 <br clear="both">
+-->
+
+<div align="center">
+  <picture>
+    <!-- 다크 모드 -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=donut&langs_count=6&hide=html,css,MATLAB&custom_title=Top%20Languages&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&border_color=30363d"
+    />
+    <!-- 라이트 모드 -->
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=donut&langs_count=6&hide=html,css,MATLAB&custom_title=Top%20Languages&title_color=0a3069&text_color=24292f&bg_color=00000000&border_color=d0d7de"
+      alt="Top Languages"
+    />
+  </picture>
+</div>
 
 
 
