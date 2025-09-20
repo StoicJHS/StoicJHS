@@ -2,9 +2,17 @@
 ## Hi there 👋
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ex+nihilo+nihil+fit.;Work+like+hell!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ex+nihilo+nihil+fit.;Work+like+hell!" alt="Typing SVG">
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS" alt="Top Langs">
+  </a>
+</p>
 
 
 <h3 align="center"> 💫 Research Stack </h3>
