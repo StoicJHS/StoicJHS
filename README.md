@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Work+like+hell.;I mean you just have to" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ex+nihilo+nihil+fit.;Work+like+hell!" alt="Typing SVG">
   </a>
 </p>
 
