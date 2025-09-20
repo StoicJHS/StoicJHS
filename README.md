@@ -40,7 +40,9 @@
 <div align="center">
   <!-- Languages & Libraries -->
   <b> ✨ Languages & Libraries </b><br/>
+  
   <img src="https://img.shields.io/badge/fortran-734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"><br/>
+  
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -49,6 +51,7 @@
 
   <!-- Currently Learning -->
   <b> 📚 Currently Learning </b><br/>
+  
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
@@ -57,6 +60,7 @@
 
   <!-- Tools -->
   <b> 🛠️ Tools  </b><br/>
+  
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"> <br/>
@@ -67,6 +71,7 @@
 
   <!-- Contact -->
   <b> ✉️ Contact  </b><br/>
+  
   <a href="mailto:yh.nam.stoic@gmail.com">
     <img src="https://img.shields.io/badge/email-yh.nam.stoic%40gmail.com-4285F4?style=flat&logo=gmail&logoColor=white">
   </a>
