@@ -31,7 +31,7 @@
 
 <div align="center">
   <picture>
-    <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true" /></a> 
+    <a href="https://github.com/StoicJHS"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true" /></a> 
   </picture>
 </div>
 
