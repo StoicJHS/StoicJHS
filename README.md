@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ex+nihilo+nihil+fit.;Work+like+hell!)](https://git.io/typing-svg)
 
-<h3 align="center">🧰 Research Stack</h3>
+<h3 align="center"> 💫 Research Stack 💫 </h3>
 
 <div align="center">
   <!-- Languages & Libraries -->
-  <b>Languages & Libraries</b><br/>
+  <b> ✨ Languages & Libraries ✨ </b><br/>
   <img src="https://img.shields.io/badge/fortran-734F96.svg?style=for-the-badge&logo=fortran&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -17,7 +17,7 @@
   <br/><br/>
 
   <!-- Currently Learning -->
-  <b>Currently Learning</b><br/>
+  <b> 📚 Currently Learning 📚 </b><br/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
@@ -25,7 +25,7 @@
   <br/><br/>
 
   <!-- Tools -->
-  <b>Tools</b><br/>
+  <b> 🛠️ Tools 🛠️ </b><br/>
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white">
@@ -34,7 +34,7 @@
   <br/><br/>
 
   <!-- Contact -->
-  <b>Contact</b><br/>
+  <b> ✉️ Contact ✉️ </b><br/>
   <a href="mailto:yh.nam.stoic@gmail.com">
     <img src="https://img.shields.io/badge/email-yh.nam.stoic%40gmail.com-4285F4?style=flat&logo=gmail&logoColor=white">
   </a>
