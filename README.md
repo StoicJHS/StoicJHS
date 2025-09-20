@@ -9,18 +9,20 @@
   </a>
 </p>
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left"
        src="https://github-readme-stats.vercel.app/api?username=StoicJHS&count_private=true&theme=holi"
        alt="GitHub Stats">
 </a>
+-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=donut"
-       alt="Top Languages">
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=donut"
+         alt="Top Languages">
+  </a>
 
 <br clear="both">
 
