@@ -40,7 +40,7 @@
 <div align="center">
   <!-- Languages & Libraries -->
   <b> ✨ Languages & Libraries </b><br/>
-  <img src="https://img.shields.io/badge/fortran-734F96.svg?style=for-the-badge&logo=fortran&logoColor=white">
+  <img src="https://img.shields.io/badge/fortran-734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
