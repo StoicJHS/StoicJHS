@@ -30,16 +30,7 @@
 
 <div align="center">
   <picture>
-    <!-- 다크 모드 -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=donut&langs_count=6&hide=html,css,MATLAB&custom_title=Top%20Languages&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&border_color=30363d"
-    />
-    <!-- 라이트 모드 -->
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=donut&langs_count=6&hide=html,css,MATLAB&custom_title=Top%20Languages&title_color=0a3069&text_color=24292f&bg_color=00000000&border_color=d0d7de"
-      alt="Top Languages"
-    />
+    <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=nord&hide_border=true" /></a> 
   </picture>
 </div>
 
