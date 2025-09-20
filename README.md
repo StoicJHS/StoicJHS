@@ -2,18 +2,48 @@
 ## Hi there 👋
 -->
 
+<!--
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Ex+nihilo+nihil+fit.;Work+like+hell!" alt="Typing SVG">
   </a>
 </p>
 
+-->
+
+<!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS" alt="Top Langs"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&langs_count=8">
   </a>
 </p>
+-->
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=StoicJHS&count_private=true&theme=shadow_red"
+          alt="GitHub Stats"
+        />
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=donut"
+          alt="Top Languages"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 <h3 align="center"> 💫 Research Stack </h3>
