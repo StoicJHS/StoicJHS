@@ -36,11 +36,25 @@
 </div>
 -->
 
+<!--
 <div align="center">
   <picture>
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&cache_seconds=600">
   </picture>
 </div>
+-->
+
+<div align="center">
+  <picture>
+    <img
+      align="center"
+      style="height:180px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&count_weight=1&size_weight=0&cache_seconds=600"
+      alt="Top Languages"
+    >
+  </picture>
+</div>
+
 
 
 
