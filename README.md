@@ -50,11 +50,12 @@
     <img
       align="center"
       style="height:180px"
-      src="https://github-readme-stats-stoicjhs.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&v=2"
+      src="https://github-readme-stats-stoicjhs.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&v=1"
       alt="Top Languages"
     >
   </picture>
 </div>
+
 
 
 
