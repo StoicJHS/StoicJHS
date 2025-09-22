@@ -36,23 +36,13 @@
 </div>
 -->
 
-<!--
 <div align="center">
   <picture>
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&cache_seconds=14400">
   </picture>
 </div>
-뭔가 잘 안되고 캐시 값마다 극단적
---> 
 
-<div align="center">
-  <picture>
-    <img
-      align="center"
-      style="height:180px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&cache_seconds=14400">
-  </picture>
-</div>
+
 
 
 
