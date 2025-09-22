@@ -49,7 +49,7 @@
     <img
       align="center"
       style="height:180px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&count_weight=0&size_weight=1&cache_seconds=600" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&theme=github_dark&hide_border=true&count_weight=0&size_weight=1&cache_seconds=60" 
       alt="Top Languages"
     >
   </picture>
