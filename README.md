@@ -68,9 +68,6 @@
 
 
 
-
-
-
 <h3 align="center"> 💫 Research Stack </h3>
 
 <div align="center">
