@@ -2,9 +2,15 @@
 ## Hi there 👋
 -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Work+like+hell.;Improve+the+odds+of+success.;" alt="Typing SVG">
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Work+like+hell.;讀書百遍義自見;" alt="Typing SVG">
   </a>
 </p>
 
