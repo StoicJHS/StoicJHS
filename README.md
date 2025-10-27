@@ -2,6 +2,7 @@
 ## Hi there 👋
 ## Nice to meet ya
 ## Work like hell
+## 1-0/99^N = 0.99
 -->
 
 <p align="center">
