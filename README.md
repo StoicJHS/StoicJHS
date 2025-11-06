@@ -63,7 +63,7 @@
 
 <div align="center">
   <picture>
-    <img align="center" style="height:240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=compact&langs_count=12&theme=github_dark&hide_border=true&cache_seconds=1">
+    <img align="center" style="height:240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicJHS&layout=donut&langs_count=12&theme=github_dark&hide_border=true&cache_seconds=1">
   </picture>
 </div>
 
