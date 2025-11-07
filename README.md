@@ -4,7 +4,6 @@
 ## 1-0/99^N = 0.99
 ## Ad astra
 ## Work like hell.
-## Ex nihilo nihil fit
 
 -->
 
