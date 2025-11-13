@@ -3,8 +3,6 @@
 ## Nice to meet ya
 ## Work like hell.
 ## 100 hours / week 
-## Hamiltonian
-
 -->
 
 <p align="center">
