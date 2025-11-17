@@ -2,7 +2,7 @@
 ## Hi there 👋
 ## Nice to meet ya
 ## Work like hell.
-## 100 hours / week 
+## 100 hours / week
 
 -->
 
