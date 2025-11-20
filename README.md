@@ -4,7 +4,6 @@
 ## Work like hell.
 ## 100 hours / week
 ## 아래의 것들도 cloudflare의 영향을 받는구나
-## 실력을 쌓자 
 
 -->
 
