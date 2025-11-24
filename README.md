@@ -3,7 +3,6 @@
 ## Nice to meet ya
 ## Work like hell.
 ## 100 hours / week
-## Improve the odds of jackpots!
 -->
 
 
