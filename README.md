@@ -4,6 +4,8 @@
 ## Work like hell.
 ## 100 hours / week
 ## Rust is powerful
+## Release~!
+
 -->
 
 
